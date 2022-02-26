@@ -6,7 +6,6 @@
         ".bundle":true,
         "dist":true,
         ".buckconfig":true,
-        ".":true,
         ".git":true,
         ".eslintrc.js":true,
         ".prettierrc.js":true,
